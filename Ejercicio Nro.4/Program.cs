@@ -81,8 +81,7 @@ namespace Ejercicio_Nro._4
                                         {
                                             contactos[opc1 -1].numeros.Add(newNumber);
                                         }
-                                        else
-                                        {
+                                        else{
                                             _Mensaje("Error! el numero tiene que contener 8 digitos o mas");
                                         }
                                     }
